@@ -1,4 +1,4 @@
-# CentralLimitTheorem
+# CentralLimitTheorem proof
 Central Limit Theorem Proof
 
 To prove central Limit Theorem female mice under chow diet is considered as
